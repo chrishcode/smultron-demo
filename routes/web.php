@@ -20,3 +20,5 @@ Route::domain('unga-programmerare.smultrondemo.test')->group(function () {
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::resource('sites', 'SiteController');

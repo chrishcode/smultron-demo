@@ -67,7 +67,7 @@
                         <p class="w-full xl:w-1/2 lg:w-1/2 md:w-1/2 text-base font-medium leading-normal mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie justo lacus, a bibendum felis scelerisque sit amet. Morbi vitae nunc varius, faucibus leo quis, gravida risus.</p>
                         
                         <div class="flex flex-row sm:flex-row justify-start pt-8">
-                            <button class="hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
+                            <button onclick="window.location.href='/sites/create'" class="hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
                                 Skapa en hemida för ditt event
                             </button>
                         </div>
@@ -88,7 +88,7 @@
                         <p class="w-full xl:w-1/2 lg:w-1/2 md:w-1/2 text-base font-medium leading-normal mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie justo lacus, a bibendum felis scelerisque sit amet. Morbi vitae nunc varius, faucibus leo quis, gravida risus.</p>
                         
                         <div class="flex flex-row sm:flex-row justify-start pt-8">
-                            <button class="hover-slide-right mt-8 bg-white text-sm leading-none text-purple font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
+                            <button onclick="window.location.href='/sites/create'" class="hover-slide-right mt-8 bg-white text-sm leading-none text-purple font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
                                 Skapa en hemida för ditt event
                             </button>
                         </div>
@@ -109,7 +109,7 @@
                         <p class="w-full xl:w-1/2 lg:w-1/2 md:w-1/2 text-base font-medium leading-normal mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie justo lacus, a bibendum felis scelerisque sit amet. Morbi vitae nunc varius, faucibus leo quis, gravida risus.</p>
                         
                         <div class="flex flex-row sm:flex-row justify-start pt-8">
-                            <button class="hover-slide-right mt-8 bg-white text-sm leading-none text-green font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
+                            <button onclick="window.location.href='/sites/create'" class="hover-slide-right mt-8 bg-white text-sm leading-none text-green font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
                                 Skapa en hemida för ditt event
                             </button>
                         </div>
@@ -130,7 +130,7 @@
                         <p class="w-full xl:w-1/2 lg:w-1/2 md:w-1/2 text-base font-medium leading-normal mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie justo lacus, a bibendum felis scelerisque sit amet. Morbi vitae nunc varius, faucibus leo quis, gravida risus.</p>
                         
                         <div class="flex flex-row sm:flex-row justify-start pt-8">
-                            <button class="hover-slide-right mt-8 bg-white text-sm leading-none text-blue font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
+                            <button onclick="window.location.href='/sites/create'" class="hover-slide-right mt-8 bg-white text-sm leading-none text-blue font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
                                 Skapa en hemida för ditt event
                             </button>
                         </div>
