@@ -33,7 +33,7 @@
 
                     <!-- <p class="w-full xl:w-1/2 lg:w-1/2 md:w-1/2 text-base font-medium leading-normal mb-8">Logga in med facebook och välj sedan det event du vill importera.</p>
                     <div class="flex flex-row sm:flex-row justify-start pt-8">
-                        <button class="hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
+                        <button class="hover-slide-up mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
                             Logga in med facebook
                         </button>
                     </div> -->
@@ -57,8 +57,8 @@
                     </div>
 
                     <div class="flex flex-col sm:flex-row justify-start pt-8">
-                        <button @click.prevent="prev()" class="hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">Gå tillbaka</button>
-                        <button @click.prevent="next()" class="hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">Nästa</button>
+                        <button @click.prevent="prev()" class="hover-slide-up mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">Gå tillbaka</button>
+                        <button @click.prevent="next()" class="hover-slide-up mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">Nästa</button>
                     </div>
                 </div>
             </div>
@@ -71,8 +71,8 @@
                     <p class="w-full xl:w-1/2 lg:w-1/2 md:w-1/2 text-base font-medium leading-normal mb-8">Din hemsida går att förhandsgranska på den här adressen: <br><br> <a class="text-white no-underline" href="http://unga-programmerare.smultrondemo.test/" target="_blank">http://unga-programmerare.smultrondemo.test/</a></p>
 
                     <div class="flex flex-col sm:flex-row justify-start pt-8">
-                        <button @click.prevent="prev()" class="hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">Gå tillbaka</button>
-                        <input type="submit" value="Publicera min hemsida!" class="cursor-pointer hover-slide-right mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
+                        <button @click.prevent="prev()" class="hover-slide-up mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">Gå tillbaka</button>
+                        <input type="submit" value="Publicera min hemsida!" class="cursor-pointer hover-slide-up mt-8 bg-white text-sm leading-none text-pink-dark font-bold uppercase h-16 px-8 rounded-full whitespace-no-wrap mb-2 sm:mb-0 sm:mr-2">
                     </div>
                 </div>
             </div>

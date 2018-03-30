@@ -26,15 +26,30 @@
             button:focus {
                 outline:0;
             }
-            .hover-slide-right:hover {
-                margin-left: 10px;
+            .hover-slide-up:hover {
+                margin-top: 20px;
                 -webkit-transition: all 200ms linear;
                 -moz-transition: all 200ms linear;
                 -ms-transition: all 200ms linear;
                 -o-transition: all 200ms linear;
                 transition: all 200ms linear;
             }
-            .hover-slide-right {
+            .hover-slide-up {
+                -webkit-transition: all 200ms linear;
+                -moz-transition: all 200ms linear;
+                -ms-transition: all 200ms linear;
+                -o-transition: all 200ms linear;
+                transition: all 200ms linear;
+            }
+            header div .hover-slide-up:hover {
+                margin-top: -15px;
+                -webkit-transition: all 200ms linear;
+                -moz-transition: all 200ms linear;
+                -ms-transition: all 200ms linear;
+                -o-transition: all 200ms linear;
+                transition: all 200ms linear;
+            }
+            header div .hover-slide-up {
                 -webkit-transition: all 200ms linear;
                 -moz-transition: all 200ms linear;
                 -ms-transition: all 200ms linear;
@@ -50,7 +65,7 @@
         <div id="app" class="h-full">
             <header class="fixed pin-t w-full">
                 <div class="container mx-auto px-4 py-50px flex items-center justify-between">
-                    <a href="/" class="flex items-center text-white no-underline hover-slide-right">
+                    <a href="/" class="flex items-center text-white no-underline hover-slide-up">
                         <img class="w-6" src="{!! asset('storage/logo.png'); !!}" alt="logo" />
                         <span class="text-base tracking-tight font-bold ml-2">
                             smultron
